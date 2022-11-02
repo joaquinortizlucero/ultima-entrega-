@@ -1,0 +1,22 @@
+.nav-link {
+    color: rgb(255, 255, 255);
+}
+
+.navbar ul {
+    list-style: none;
+}
+
+.navbar ul li {
+    padding: 15px;
+}
+
+.navbar ul li a {
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Helvetica, sans-serif;
+    font-size: 1rem;
+}
+
+.navbar-toggler {
+    background-color: rgb(255, 255, 255);
+}

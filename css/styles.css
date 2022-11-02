@@ -1,0 +1,58 @@
+.c-color {
+  color: white;
+}
+
+* {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+ul,
+ol {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+h2 {
+  font-weight: lighter;
+  color: aliceblue;
+}
+
+main {
+  background-color: black;
+}
+
+.seccion__nosotros {
+  margin-top: 50px;
+}
+
+.nav-link {
+  color: rgb(255, 255, 255);
+}
+
+.navbar ul {
+  list-style: none;
+}
+.navbar ul li {
+  padding: 15px;
+}
+.navbar ul li a {
+  font-weight: bold;
+  text-decoration: none;
+  font-family: Helvetica, sans-serif;
+  font-size: 1rem;
+}
+
+.navbar-toggler {
+  background-color: rgb(255, 255, 255);
+}
+
+.nav-link:hover {
+  color: darkblue;
+}
+
+/*# sourceMappingURL=styles.css.map */

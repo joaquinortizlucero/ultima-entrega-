@@ -1,0 +1,33 @@
+.nav-link {
+    color: rgb(255, 255, 255);
+}
+
+
+.navbar ul {
+    list-style: none;
+
+    li {
+        padding: 15px;
+
+        a {
+            font-weight: bold;
+            text-decoration: none;
+            font-family: Helvetica, sans-serif;
+            font-size: 1rem;
+        }
+    }
+
+}
+
+
+.navbar-toggler {
+
+
+    background-color: rgb(255, 255, 255);
+}
+
+
+
+.nav-link:hover{
+    color: darkblue;
+}
